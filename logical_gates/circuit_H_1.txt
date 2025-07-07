@@ -1,0 +1,39 @@
+Status: "Bound 6.0"
+
+Circuit:
+X 0
+X 1
+H 1
+X 3
+C_XYZ 3
+Z 6
+X 6
+X 9
+H 4
+C_XYZ 8
+C_XYZ 10
+H 11
+CZ 1 6
+CZ 1 11
+CZ 3 4
+CZ 3 7
+CZ 3 8
+CZ 4 5
+CZ 4 7
+CZ 4 8
+CZ 4 10
+CZ 5 7
+CZ 5 8
+CZ 6 11
+CZ 7 8
+CZ 7 10
+CZ 8 10
+C_XYZ 1
+C_ZYX 3
+C_XYZ 4
+S 6
+S 7
+SQRT_X_DAG 8
+C_ZYX 10
+C_XYZ 11
+

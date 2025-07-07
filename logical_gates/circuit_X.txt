@@ -1,0 +1,10 @@
+Status: "Optimal"
+
+Circuit:
+X 0
+X 1
+X 3
+X 4
+X 6
+X 9
+

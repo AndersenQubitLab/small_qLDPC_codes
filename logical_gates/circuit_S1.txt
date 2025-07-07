@@ -1,0 +1,16 @@
+Status: "Optimal"
+
+Circuit:
+Z 0
+Z 1
+Z 3
+Z 5
+CZ 6 7
+CZ 6 8
+CZ 7 8
+Z 6
+S 6
+Z 8
+S 8
+S 7
+
